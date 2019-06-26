@@ -1,0 +1,570 @@
+.html
+{
+	background-color: #EBEBEB;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu2074
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	left: 13px;
+}
+
+#u2074
+{
+	z-index: 2;
+	width: 920px;
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 18px;
+	position: relative;
+	margin-right: -10000px;
+	left: 7px;
+	background: #FFFFFF url("../images/cabezote2.jpg") no-repeat center center;
+	background-size: cover !important;
+}
+
+#u2125
+{
+	z-index: 3;
+	width: 536px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 14px;
+}
+
+#u2065
+{
+	z-index: 6;
+	background: url("../images/u2065_states.png") no-repeat 0px 0px;
+	position: relative;
+	width: 111px;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: 618px;
+}
+
+#u2065_states
+{
+	height: 19px;
+	width: 111px;
+	vertical-align: top;
+}
+
+#u2065:hover #u2065_states
+{
+	background: url("../images/u2065_states-r.png") no-repeat 0px 0px;
+}
+
+#u2065:active #u2065_states
+{
+	background: url("../images/u2065_states-m.png") no-repeat 0px 0px;
+}
+
+#u2118
+{
+	z-index: 10;
+	background: url("../images/u2118_states.png") no-repeat 0px 0px;
+	position: relative;
+	width: 62px;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: 752px;
+}
+
+#u2118_states
+{
+	height: 19px;
+	width: 62px;
+	vertical-align: top;
+}
+
+#u2118:hover #u2118_states
+{
+	background: url("../images/u2118_states-r.png") no-repeat 0px 0px;
+}
+
+#u2118:active #u2118_states
+{
+	background: url("../images/u2118_states-m.png") no-repeat 0px 0px;
+}
+
+#u2137
+{
+	z-index: 14;
+	background: url("../images/u2137_states.png") no-repeat 0px 0px;
+	position: relative;
+	width: 83px;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: 837px;
+}
+
+#u2137_states
+{
+	height: 19px;
+	width: 83px;
+	vertical-align: top;
+}
+
+#u2137:hover #u2137_states
+{
+	background: url("../images/u2137_states-r.png") no-repeat 0px 0px;
+}
+
+#u2137:active #u2137_states
+{
+	background: url("../images/u2137_states-m.png") no-repeat 0px 0px;
+}
+
+#u2066
+{
+	z-index: 18;
+	background: url("../images/u2066_states.png") no-repeat 0px 0px;
+	position: relative;
+	width: 44px;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: 551px;
+}
+
+#u2066_states
+{
+	height: 19px;
+	width: 44px;
+	vertical-align: top;
+}
+
+#u2066:hover #u2066_states
+{
+	background: url("../images/u2066_states-r.png") no-repeat 0px 0px;
+}
+
+#u2066:active #u2066_states
+{
+	background: url("../images/u2066_states-m.png") no-repeat 0px 0px;
+}
+
+#u2060
+{
+	z-index: 21;
+	width: 249px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 152px;
+	left: 165px;
+}
+
+#u2121-4
+{
+	z-index: 23;
+	width: 179px;
+	min-height: 22px;
+	color: #FFFFFF;
+	line-height: 31px;
+	font-size: 26px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 174px;
+	left: 190px;
+}
+
+#u2117
+{
+	z-index: 27;
+	width: 88px;
+	height: 80px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 45px;
+}
+
+.ie #u2117
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u2161
+{
+	z-index: 28;
+	width: 612px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 250px;
+}
+
+#u2171
+{
+	z-index: 30;
+	width: 612px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1004px;
+}
+
+#u2176
+{
+	z-index: 37;
+	width: 229px;
+	height: 38px;
+	-pie-box-shadow: 0px 0px 8px 2px #BFBFBF;
+	-moz-box-shadow: 0px 0px 8px 2px rgba(127, 127, 127, 0.5);
+	-webkit-box-shadow: 0px 0px 8px 2px rgba(127, 127, 127, 0.5);
+	box-shadow: 0px 0px 8px 2px rgba(127, 127, 127, 0.5);
+	background: #273B81 url("../images/u1781-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(10%, #056AB5),to(#273B81));
+	background: -webkit-linear-gradient(top,#056AB5 10%,#273B81 );
+	background: -moz-linear-gradient(top,#056AB5 10%,#273B81 );
+	background: -ms-linear-gradient(top,#056AB5 10%,#273B81 );
+	background: -o-linear-gradient(top,#056AB5 10%,#273B81 );
+	background: linear-gradient(to bottom,#056AB5 10%,#273B81 );
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 216px;
+	left: 699px;
+}
+
+#u2177
+{
+	z-index: 38;
+	width: 229px;
+	height: 33px;
+	-pie-box-shadow: 0px 0px 8px 2px #BFBFBF;
+	-moz-box-shadow: 0px 0px 8px 2px rgba(127, 127, 127, 0.5);
+	-webkit-box-shadow: 0px 0px 8px 2px rgba(127, 127, 127, 0.5);
+	box-shadow: 0px 0px 8px 2px rgba(127, 127, 127, 0.5);
+	background: #263D83 url("../images/u1782-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(10%, #0669B4),to(#263D83));
+	background: -webkit-linear-gradient(top,#0669B4 10%,#263D83 );
+	background: -moz-linear-gradient(top,#0669B4 10%,#263D83 );
+	background: -ms-linear-gradient(top,#0669B4 10%,#263D83 );
+	background: -o-linear-gradient(top,#0669B4 10%,#263D83 );
+	background: linear-gradient(to bottom,#0669B4 10%,#263D83 );
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 274px;
+	left: 699px;
+}
+
+#u2178
+{
+	z-index: 39;
+	width: 229px;
+	height: 38px;
+	-pie-box-shadow: 0px 0px 8px 2px #BFBFBF;
+	-moz-box-shadow: 0px 0px 8px 2px rgba(127, 127, 127, 0.5);
+	-webkit-box-shadow: 0px 0px 8px 2px rgba(127, 127, 127, 0.5);
+	box-shadow: 0px 0px 8px 2px rgba(127, 127, 127, 0.5);
+	background: #273B81 url("../images/u1783-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(10%, #046BB6),to(#273B81));
+	background: -webkit-linear-gradient(top,#046BB6 10%,#273B81 );
+	background: -moz-linear-gradient(top,#046BB6 10%,#273B81 );
+	background: -ms-linear-gradient(top,#046BB6 10%,#273B81 );
+	background: -o-linear-gradient(top,#046BB6 10%,#273B81 );
+	background: linear-gradient(to bottom,#046BB6 10%,#273B81 );
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 163px;
+	left: 699px;
+}
+
+#u2179
+{
+	z-index: 41;
+	background: url("../images/u2179_states.png") no-repeat 0px 0px;
+	position: relative;
+	width: 144px;
+	margin-right: -10000px;
+	margin-top: 170px;
+	left: 742px;
+}
+
+#u2179_states
+{
+	height: 24px;
+	width: 144px;
+	vertical-align: top;
+}
+
+#u2179:hover #u2179_states
+{
+	background: url("../images/u2179_states-r.png") no-repeat 0px 0px;
+}
+
+#u2179:active #u2179_states
+{
+	background: url("../images/u2179_states-m.png") no-repeat 0px 0px;
+}
+
+#u2180
+{
+	z-index: 45;
+	background: url("../images/u2180_states.png") no-repeat 0px 0px;
+	position: relative;
+	width: 80px;
+	margin-right: -10000px;
+	margin-top: 224px;
+	left: 774px;
+}
+
+#u2180_states
+{
+	height: 24px;
+	width: 80px;
+	vertical-align: top;
+}
+
+#u2180:hover #u2180_states
+{
+	background: url("../images/u2180_states-r.png") no-repeat 0px 0px;
+}
+
+#u2180:active #u2180_states
+{
+	background: url("../images/u2180_states-m.png") no-repeat 0px 0px;
+}
+
+#u2181
+{
+	z-index: 49;
+	background: url("../images/u2181_states.png") no-repeat 0px 0px;
+	position: relative;
+	width: 104px;
+	margin-right: -10000px;
+	margin-top: 281px;
+	left: 767px;
+}
+
+#u2181_states
+{
+	height: 24px;
+	width: 104px;
+	vertical-align: top;
+}
+
+#u2181:hover #u2181_states
+{
+	background: url("../images/u2181_states-r.png") no-repeat 0px 0px;
+}
+
+#u2181:active #u2181_states
+{
+	background: url("../images/u2181_states-m.png") no-repeat 0px 0px;
+}
+
+#u2182
+{
+	z-index: 52;
+	width: 154px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 96px;
+	left: 21px;
+}
+
+#u2276-4
+{
+	z-index: 54;
+	width: 659px;
+	min-height: 36px;
+	color: #7F7F7F;
+	line-height: 22px;
+	font-size: 18px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1661px;
+	left: 160px;
+}
+
+#u2384
+{
+	z-index: 58;
+	width: 160px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 406px;
+	left: 741px;
+}
+
+#u2386-4
+{
+	z-index: 60;
+	width: 134px;
+	min-height: 22px;
+	color: #FFFFFF;
+	line-height: 22px;
+	font-size: 18px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 418px;
+	left: 760px;
+}
+
+#u2387
+{
+	z-index: 64;
+	width: 154px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 422px;
+	left: 746px;
+}
+
+#u2389-11
+{
+	z-index: 66;
+	width: 262px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 592px;
+	left: 696px;
+}
+
+#u2390
+{
+	z-index: 77;
+	width: 165px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 635px;
+	left: 741px;
+}
+
+#u2182_img,#u2387_img,#u2390_img
+{
+	padding-bottom: 1px;
+}
+
+#u2392-13
+{
+	z-index: 79;
+	width: 262px;
+	min-height: 39px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 813px;
+	left: 696px;
+}
+
+#u2389-2,#u2392-2,#u2392-4
+{
+	font-size: 10px;
+	text-align: center;
+	line-height: 12px;
+	font-weight: bold;
+}
+
+#u2389-4,#u2389-6,#u2389-8,#u2392-6,#u2392-8,#u2392-10
+{
+	font-size: 10px;
+	text-align: center;
+	line-height: 12px;
+	font-weight: normal;
+}
+
+#u2408
+{
+	z-index: 92;
+	width: 32px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 345px;
+	left: 801px;
+}
+
+#u2410
+{
+	z-index: 94;
+	width: 32px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 345px;
+	left: 842px;
+}
+
+#u2412
+{
+	z-index: 96;
+	width: 32px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 345px;
+	left: 760px;
+}
+
+#u2414-4
+{
+	z-index: 98;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 320px;
+	left: 759px;
+}
+
+#u2073
+{
+	z-index: 32;
+	width: 919px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #1A1919;
+	padding-bottom: 27px;
+	margin-bottom: -68px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1838px;
+	left: 20px;
+}
+
+#u2130-4
+{
+	z-index: 33;
+	width: 409px;
+	min-height: 22px;
+	line-height: 12px;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 10px;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 5px;
+}
+
+body
+{
+	padding-top: 36px;
+	padding-bottom: 68px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -1838px;
+}
+
